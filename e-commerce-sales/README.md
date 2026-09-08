@@ -6,4 +6,4 @@
 
 **Description:** Analyzed revenue trends, top products, and customer insights using SQL.
 
-**SQL Skills:** Aggregations, GROUP BY, Filtering, Revenue calculations, DATE functions, Sorting
+**SQL Skills:** Aggregations, GROUP BY, Filtering, Revenue calculations, DATE functions, Sorting, RANKING, CTE
